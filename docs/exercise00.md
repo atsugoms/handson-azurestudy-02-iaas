@@ -7,7 +7,7 @@
 1. [ネットワーク作成](exercise01.md)
 1. [ネットワークセキュリティグループ作成](exercise02.md)
 1. [仮想マシン作成/接続](exercise03.md)
-1. ARMテンプレート利用
+1. [ARMテンプレート利用](exercise04.md)
 1. VNet Peering 作成
 1. Bastion利用
 
