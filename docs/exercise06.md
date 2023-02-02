@@ -1,4 +1,4 @@
-# Exercise6: ネットワーク作成
+# Exercise6: Bastion利用
 
 ## 【目次】
 

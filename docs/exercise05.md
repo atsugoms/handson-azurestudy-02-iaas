@@ -53,4 +53,4 @@
 
 # 次の Exercise へ
 
-* [ネットワーク作成](exercise06.md)
+* [Bastion利用](exercise06.md)
