@@ -145,3 +145,7 @@
 
       ![](images/ex03-0401-vm.png)
 
+
+# 次の Exercise へ
+
+* [ARMテンプレート利用](exercise04.md)

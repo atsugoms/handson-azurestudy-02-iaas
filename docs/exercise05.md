@@ -48,3 +48,9 @@
     接続確認できた状態
 
     ![](images/ex05-0203-vnetpeering.png)
+
+
+
+# 次の Exercise へ
+
+* [ネットワーク作成](exercise06.md)

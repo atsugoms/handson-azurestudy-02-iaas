@@ -76,3 +76,7 @@
 
         内容を確認して「作成」
 
+
+# 次の Exercise へ
+
+* [VNet Peering 作成](exercise05.md)
